@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Requirements
 Before starting the project you must have :
 
-[![Npm>=6.10.1](https://img.shields.io/badge/npm->=6.10-brightgreen.svg)](https://www.npmjs.com/package/npm)
+[![Npm>=6.14.4](https://img.shields.io/badge/npm->=6.10-brightgreen.svg)](https://www.npmjs.com/package/npm)
 
 ## Installation
 
